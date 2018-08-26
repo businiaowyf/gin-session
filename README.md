@@ -5,7 +5,7 @@ Get Started
 ---
 ## Install
 ```
-get get -u github.com/businiaowyf/gin-session/redisess
+go get -u github.com/businiaowyf/gin-session/redisess
 dep ensure
 ```
 
